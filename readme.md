@@ -11,9 +11,7 @@ This project aims to analyze and predict insurance premium prices based on vario
 - [Streamlit App](#streamlit-app)  
 - [Example Prediction](#example-prediction)  
 - [Conclusion](#conclusion)  
-- [Files](#files)  
-- [How to Run](#how-to-run)  
-- [Acknowledgments](#acknowledgments)  
+
   
 ## Installation  
   
