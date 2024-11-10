@@ -43,22 +43,11 @@ To run the notebook and the Streamlit app, you need to install the following dep
   
 ## Model Training  
   
-### Linear Regression Model  
-  
-1. **Preprocessing**: Numerical and categorical features are preprocessed using pipelines.  
-2. **Model Pipeline**: A pipeline is created to preprocess the data and train a linear regression model.  
-3. **Train-Test Split and Model Training**: The dataset is split into training and testing sets, and the model is trained.  
-  
 ### Random Forest Model with Grid Search  
   
 1. **Grid Search**: Grid search with cross-validation is performed to find the best hyperparameters for the Random Forest model.  
 2. **Train the Best Model**: The best model from grid search is trained on the training data.  
   
-### Support Vector Regression (SVR) with Grid Search  
-  
-1. **SVR Model**: Grid search with cross-validation is performed to find the best hyperparameters for the SVR model.  
-2. **Train the Best Model**: The best model from grid search is trained on the training data.
-
 ## Streamlit App  
   
 A Streamlit app is created to provide a user interface for predicting insurance premium prices based on user input parameters. The app includes:  
