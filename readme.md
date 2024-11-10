@@ -9,7 +9,7 @@ This project aims to analyze and predict insurance premium prices based on vario
 - [Model Training](#model-training)  
 - [Model Evaluation](#model-evaluation)  
 - [Streamlit App](#streamlit-app)  
-- [Example Prediction](#example-prediction)  
+- [Link to Streamlit App](#link-to-streamlit-app)  
 - [Conclusion](#conclusion)  
 
   
