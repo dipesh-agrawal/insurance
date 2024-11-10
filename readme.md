@@ -64,9 +64,9 @@ To deploy the Streamlit app, the following steps are taken:
 1. **Set up ngrok**: ngrok is used to create a public URL for the Streamlit app, allowing it to be accessed from the internet.  
 2. **Run Streamlit App**: The Streamlit app is started, and ngrok provides a public URL where the app can be accessed.  
   
-## Example Prediction  
+## Link to Streamlit App  
   
-An example prediction is made using a new data point with specific values for age, BMI, diabetes, blood pressure problems, and other health conditions. The predicted premium price is then printed.  
+[Link](https://6d21-35-236-155-128.ngrok-free.app/) 
   
 ## Conclusion  
   
