@@ -66,7 +66,7 @@ To deploy the Streamlit app, the following steps are taken:
   
 ## Link to Streamlit App  
   
-[Link](https://2afd-34-172-244-229.ngrok-free.app/) 
+[Link](https://929c-34-32-163-65.ngrok-free.app/) 
   
 ## Conclusion  
   
